@@ -256,7 +256,7 @@
         
         [UIView animateWithDuration:0.5
                               delay:0.0
-                            options: UIViewAnimationCurveEaseOut
+                            options: UIViewAnimationOptionCurveEaseInOut
                          animations:^{
                              
                              self.favoriteIcon.frame = CGRectMake(self.ado.screenWidth-self.ado.favoriteIconSize,

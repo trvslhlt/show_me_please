@@ -44,18 +44,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C736D487195F44C200740EE8 /* show_me_please.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = show_me_please.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C736D487195F44C200740EE8 /* Show Me Pls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Show Me Pls.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C736D48A195F44C200740EE8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C736D48C195F44C200740EE8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		C736D48E195F44C200740EE8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		C736D492195F44C200740EE8 /* show_me_please-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "show_me_please-Info.plist"; sourceTree = "<group>"; };
+		C736D492195F44C200740EE8 /* Show Me Pls-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Show Me Pls-Info.plist"; sourceTree = "<group>"; };
 		C736D494195F44C200740EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C736D496195F44C200740EE8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C736D498195F44C200740EE8 /* show_me_please-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "show_me_please-Prefix.pch"; sourceTree = "<group>"; };
+		C736D498195F44C200740EE8 /* Show Me Pls-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Show Me Pls-Prefix.pch"; sourceTree = "<group>"; };
 		C736D49C195F44C300740EE8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		C736D4A2195F44C300740EE8 /* show_me_pleaseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = show_me_pleaseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C736D4A2195F44C300740EE8 /* Show Me PlsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Show Me PlsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C736D4A3195F44C300740EE8 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		C736D4AB195F44C300740EE8 /* show_me_pleaseTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "show_me_pleaseTests-Info.plist"; sourceTree = "<group>"; };
+		C736D4AB195F44C300740EE8 /* Show Me PlsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Show Me PlsTests-Info.plist"; sourceTree = "<group>"; };
 		C736D4AD195F44C300740EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C736D4AF195F44C300740EE8 /* InboxChallenge_02Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InboxChallenge_02Tests.m; sourceTree = "<group>"; };
 		C736D4B9195F44E600740EE8 /* THImageDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = THImageDownloader.h; sourceTree = "<group>"; };
@@ -127,8 +127,8 @@
 		C736D488195F44C200740EE8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C736D487195F44C200740EE8 /* show_me_please.app */,
-				C736D4A2195F44C300740EE8 /* show_me_pleaseTests.xctest */,
+				C736D487195F44C200740EE8 /* Show Me Pls.app */,
+				C736D4A2195F44C300740EE8 /* Show Me PlsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -158,10 +158,10 @@
 			children = (
 				C736D4DC196097CD00740EE8 /* fonts */,
 				C736D4DB196097BA00740EE8 /* icons */,
-				C736D492195F44C200740EE8 /* show_me_please-Info.plist */,
+				C736D492195F44C200740EE8 /* Show Me Pls-Info.plist */,
 				C736D493195F44C200740EE8 /* InfoPlist.strings */,
 				C736D496195F44C200740EE8 /* main.m */,
-				C736D498195F44C200740EE8 /* show_me_please-Prefix.pch */,
+				C736D498195F44C200740EE8 /* Show Me Pls-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -178,7 +178,7 @@
 		C736D4AA195F44C300740EE8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				C736D4AB195F44C300740EE8 /* show_me_pleaseTests-Info.plist */,
+				C736D4AB195F44C300740EE8 /* Show Me PlsTests-Info.plist */,
 				C736D4AC195F44C300740EE8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -253,9 +253,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C736D486195F44C200740EE8 /* show_me_please */ = {
+		C736D486195F44C200740EE8 /* Show Me Pls */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C736D4B3195F44C300740EE8 /* Build configuration list for PBXNativeTarget "show_me_please" */;
+			buildConfigurationList = C736D4B3195F44C300740EE8 /* Build configuration list for PBXNativeTarget "Show Me Pls" */;
 			buildPhases = (
 				C736D483195F44C200740EE8 /* Sources */,
 				C736D484195F44C200740EE8 /* Frameworks */,
@@ -265,14 +265,14 @@
 			);
 			dependencies = (
 			);
-			name = show_me_please;
+			name = "Show Me Pls";
 			productName = InboxChallenge_02;
-			productReference = C736D487195F44C200740EE8 /* show_me_please.app */;
+			productReference = C736D487195F44C200740EE8 /* Show Me Pls.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C736D4A1195F44C300740EE8 /* show_me_pleaseTests */ = {
+		C736D4A1195F44C300740EE8 /* Show Me PlsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C736D4B6195F44C300740EE8 /* Build configuration list for PBXNativeTarget "show_me_pleaseTests" */;
+			buildConfigurationList = C736D4B6195F44C300740EE8 /* Build configuration list for PBXNativeTarget "Show Me PlsTests" */;
 			buildPhases = (
 				C736D49E195F44C300740EE8 /* Sources */,
 				C736D49F195F44C300740EE8 /* Frameworks */,
@@ -283,9 +283,9 @@
 			dependencies = (
 				C736D4A8195F44C300740EE8 /* PBXTargetDependency */,
 			);
-			name = show_me_pleaseTests;
+			name = "Show Me PlsTests";
 			productName = InboxChallenge_02Tests;
-			productReference = C736D4A2195F44C300740EE8 /* show_me_pleaseTests.xctest */;
+			productReference = C736D4A2195F44C300740EE8 /* Show Me PlsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -303,7 +303,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C736D482195F44C200740EE8 /* Build configuration list for PBXProject "show_me_please" */;
+			buildConfigurationList = C736D482195F44C200740EE8 /* Build configuration list for PBXProject "Show Me Pls" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -315,8 +315,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C736D486195F44C200740EE8 /* show_me_please */,
-				C736D4A1195F44C300740EE8 /* show_me_pleaseTests */,
+				C736D486195F44C200740EE8 /* Show Me Pls */,
+				C736D4A1195F44C300740EE8 /* Show Me PlsTests */,
 			);
 		};
 /* End PBXProject section */
@@ -376,7 +376,7 @@
 /* Begin PBXTargetDependency section */
 		C736D4A8195F44C300740EE8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C736D486195F44C200740EE8 /* show_me_please */;
+			target = C736D486195F44C200740EE8 /* Show Me Pls */;
 			targetProxy = C736D4A7195F44C300740EE8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -477,9 +477,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "InboxChallenge_02/show_me_please-Prefix.pch";
-				INFOPLIST_FILE = "InboxChallenge_02/show_me_please-Info.plist";
-				PRODUCT_NAME = show_me_please;
+				GCC_PREFIX_HEADER = "InboxChallenge_02/Show Me Pls-Prefix.pch";
+				INFOPLIST_FILE = "InboxChallenge_02/Show Me Pls-Info.plist";
+				PRODUCT_NAME = "Show Me Pls";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -489,10 +489,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: travis holt (V37SZX7FEG)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "InboxChallenge_02/show_me_please-Prefix.pch";
-				INFOPLIST_FILE = "InboxChallenge_02/show_me_please-Info.plist";
-				PRODUCT_NAME = show_me_please;
+				GCC_PREFIX_HEADER = "InboxChallenge_02/Show Me Pls-Prefix.pch";
+				INFOPLIST_FILE = "InboxChallenge_02/Show Me Pls-Info.plist";
+				PRODUCT_NAME = "Show Me Pls";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -512,8 +513,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "InboxChallenge_02Tests/show_me_pleaseTests-Info.plist";
-				PRODUCT_NAME = show_me_pleaseTests;
+				INFOPLIST_FILE = "InboxChallenge_02Tests/Show Me PlsTests-Info.plist";
+				PRODUCT_NAME = "Show Me PlsTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -530,8 +531,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InboxChallenge_02/InboxChallenge_02-Prefix.pch";
-				INFOPLIST_FILE = "InboxChallenge_02Tests/show_me_pleaseTests-Info.plist";
-				PRODUCT_NAME = show_me_pleaseTests;
+				INFOPLIST_FILE = "InboxChallenge_02Tests/Show Me PlsTests-Info.plist";
+				PRODUCT_NAME = "Show Me PlsTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -540,7 +541,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C736D482195F44C200740EE8 /* Build configuration list for PBXProject "show_me_please" */ = {
+		C736D482195F44C200740EE8 /* Build configuration list for PBXProject "Show Me Pls" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C736D4B1195F44C300740EE8 /* Debug */,
@@ -549,7 +550,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C736D4B3195F44C300740EE8 /* Build configuration list for PBXNativeTarget "show_me_please" */ = {
+		C736D4B3195F44C300740EE8 /* Build configuration list for PBXNativeTarget "Show Me Pls" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C736D4B4195F44C300740EE8 /* Debug */,
@@ -558,7 +559,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C736D4B6195F44C300740EE8 /* Build configuration list for PBXNativeTarget "show_me_pleaseTests" */ = {
+		C736D4B6195F44C300740EE8 /* Build configuration list for PBXNativeTarget "Show Me PlsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C736D4B7195F44C300740EE8 /* Debug */,

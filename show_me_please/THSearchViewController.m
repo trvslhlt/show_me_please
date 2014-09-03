@@ -21,6 +21,7 @@
         // Custom initialization
         _ado = [THAppDataObject sharedInstance];
         _searchTextField = [[UITextField alloc] init];
+      _searchTextField.delegate = self;
         _commitSearch = [[UIButton alloc] init];
         _favoriteIcon = [[UIImageView alloc] init];
     }
@@ -238,6 +239,14 @@
     
     THFavoritesViewController *thfVC = [[THFavoritesViewController alloc] init];
     [self.navigationController pushViewController:thfVC animated:YES];
+}
+
+#pragma mark - UITextField Delegate
+
+- (BOOL)textFieldShouldReturn:(UITextField *)textField{
+  [textField resignFirstResponder];
+  [self fireSearch:self.commitSearch];
+  return YES;
 }
 
 @end
