@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C736D486195F44C200740EE8"
-               BuildableName = "show_me_please.app"
-               BlueprintName = "Show Me Pls"
-               ReferencedContainer = "container:Show Me Pls.xcodeproj">
+               BuildableName = "Show Me Pls.app"
+               BlueprintName = "showmepls"
+               ReferencedContainer = "container:showmepls.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C736D4A1195F44C300740EE8"
-               BuildableName = "show_me_pleaseTests.xctest"
-               BlueprintName = "Show Me PlsTests"
-               ReferencedContainer = "container:Show Me Pls.xcodeproj">
+               BuildableName = "Show Me PlsTests.xctest"
+               BlueprintName = "showmeplsTests"
+               ReferencedContainer = "container:showmepls.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C736D486195F44C200740EE8"
-            BuildableName = "show_me_please.app"
-            BlueprintName = "Show Me Pls"
-            ReferencedContainer = "container:Show Me Pls.xcodeproj">
+            BuildableName = "Show Me Pls.app"
+            BlueprintName = "showmepls"
+            ReferencedContainer = "container:showmepls.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C736D486195F44C200740EE8"
-            BuildableName = "show_me_please.app"
-            BlueprintName = "Show Me Pls"
-            ReferencedContainer = "container:Show Me Pls.xcodeproj">
+            BuildableName = "Show Me Pls.app"
+            BlueprintName = "showmepls"
+            ReferencedContainer = "container:showmepls.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C736D486195F44C200740EE8"
-            BuildableName = "show_me_please.app"
-            BlueprintName = "Show Me Pls"
-            ReferencedContainer = "container:Show Me Pls.xcodeproj">
+            BuildableName = "Show Me Pls.app"
+            BlueprintName = "showmepls"
+            ReferencedContainer = "container:showmepls.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
